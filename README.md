@@ -48,4 +48,22 @@ When the user submits the form, the backend processes the input and predicts the
 
 The model is stored in model.joblib, and it is loaded using Joblib for making predictions based on the input provided by the user.
 
-![Application Screenshot]("D:\OneDrive - National Institute of Business Management\Certificates\Projects\ML Projects\Brain Stroke Prediction Using Machine Learning with Flask and Python\WebApp.jpg")
+![WebApp](https://github.com/user-attachments/assets/56e69bfd-d4eb-493c-8647-3543f640108d)
+
+![Exploratory Data Analysis](https://github.com/user-attachments/assets/94b40289-0639-4548-9234-dbff659a7235)
+![Exploratory Data Analysis](https://github.com/user-attachments/assets/746fcf97-3152-4d9e-8bb5-e655f48699ea)
+![Exploratory Data Analysis](https://github.com/user-attachments/assets/a149651e-cb7b-487d-888f-180d715dbd1e)
+![Exploratory Data Analysis](https://github.com/user-attachments/assets/4c65d79c-afca-4628-96e3-63f4aa022626)
+![Exploratory Data Analysis](https://github.com/user-attachments/assets/fedb0a05-388f-4db8-a9d9-d51e07504402)
+
+![Model Output](https://github.com/user-attachments/assets/8a4540aa-22f0-42d4-a783-f7c1f661c594)
+
+
+
+
+
+
+
+
+
+
